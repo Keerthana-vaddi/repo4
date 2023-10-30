@@ -6,6 +6,7 @@ public class Welcome {
 		// TODO Auto-generated method stub
              System.out.println("Welcome to Eclipse!!!");
              System.out.println("Welcome to GPREC!!");
+	     System.out.pritnln("Welcome to ECS");
 	}
 
 }
